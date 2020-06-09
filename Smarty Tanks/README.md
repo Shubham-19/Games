@@ -1,6 +1,7 @@
 # Smarty Tanks
 
-This is a game that I developed as a project in my college.
+This is a game that I developed as a project in my college. In this you'll be competing against an artificially intelligent
+BOT, that will never miss your tank.
 
 The function 'gameIntro' won't work as there was a image file that I can't find, so keep that line commented in the code.
 Also, there are some more comments in the code that I used while debugging the code, so you can also avoid them.
